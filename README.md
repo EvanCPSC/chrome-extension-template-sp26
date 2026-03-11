@@ -8,4 +8,4 @@ Feel free to clone this repo and use as a basis for the competiton
 3. Make sure developer mode toggle is turned on in the top right
 4. Click load unpacked
 5. Select this repo
-6. Click on extension to see the pop up!
+6. Click on the extension icon in extension list of extensions or open a new window to see the pop up!
