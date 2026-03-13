@@ -1,6 +1,6 @@
 {
-  "name": "OS Chrome Extension",
-  "description": "Demo extension for the super awesome open source Chrome extension workshop",
+  "name": "Open Source Commit Clicker",
+  "description": "Click the Open Source to Commit!",
   "version": "1.0",
   "manifest_version": 3,
   "action": {
